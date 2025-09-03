@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A98BF325-D958-445B-8B9D-C70F9D3DB651}|MicroservicesWebApplication1\\MicroservicesWebApplication1.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\microserviceswebapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98BF325-D958-445B-8B9D-C70F9D3DB651}|MicroservicesWebApplication1\\MicroservicesWebApplication1.csproj|solutionrelative:microserviceswebapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98BF325-D958-445B-8B9D-C70F9D3DB651}|MicroservicesWebApplication1\\MicroservicesWebApplication1.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\microserviceswebapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98BF325-D958-445B-8B9D-C70F9D3DB651}|MicroservicesWebApplication1\\MicroservicesWebApplication1.csproj|solutionrelative:microserviceswebapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98BF325-D958-445B-8B9D-C70F9D3DB651}|MicroservicesWebApplication1\\MicroservicesWebApplication1.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\microserviceswebapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A98BF325-D958-445B-8B9D-C70F9D3DB651}|MicroservicesWebApplication1\\MicroservicesWebApplication1.csproj|solutionrelative:microserviceswebapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3ED982-92C5-484B-84B9-095F39099158}|AuthenticationWebApplication\\AuthenticationWebApplication.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\authenticationwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC3ED982-92C5-484B-84B9-095F39099158}|AuthenticationWebApplication\\AuthenticationWebApplication.csproj|solutionrelative:authenticationwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98BF325-D958-445B-8B9D-C70F9D3DB651}|MicroservicesWebApplication1\\MicroservicesWebApplication1.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\microserviceswebapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98BF325-D958-445B-8B9D-C70F9D3DB651}|MicroservicesWebApplication1\\MicroservicesWebApplication1.csproj|solutionrelative:microserviceswebapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3ED982-92C5-484B-84B9-095F39099158}|AuthenticationWebApplication\\AuthenticationWebApplication.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\authenticationwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3ED982-92C5-484B-84B9-095F39099158}|AuthenticationWebApplication\\AuthenticationWebApplication.csproj|solutionrelative:authenticationwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MicroservicesWebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MicroservicesWebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T09:06:41.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplication1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MicroservicesWebApplication1\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplication1\\WeatherForecast.cs",
+              "RelativeToolTip": "MicroservicesWebApplication1\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T09:06:37.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\AuthenticationWebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthenticationWebApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\AuthenticationWebApplication\\appsettings.json",
+              "RelativeToolTip": "AuthenticationWebApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-03T09:06:24.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "MicroservicesWebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplication1\\appsettings.json",
+              "RelativeToolTip": "MicroservicesWebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-03T09:06:15.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "MicroservicesWebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplication1\\Program.cs",
+              "RelativeToolTip": "MicroservicesWebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T09:04:24.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\AuthenticationWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "AuthenticationWebApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\AuthenticationWebApplication\\Program.cs",
+              "RelativeToolTip": "AuthenticationWebApplication\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T09:01:10.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

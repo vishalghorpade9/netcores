@@ -1,0 +1,45 @@
+https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-9.0&tabs=visual-studio
+MVC
+	Authentications
+		Basic authentication
+		Windows authentication - Done
+		Single sign-on (SSO)
+		JWT Token (With API)
+	MVC
+		Views
+		Partial Views
+		Routing
+		Dependency injection - controllers
+		Dependency injection - views
+	Tag helpers
+	Database
+		Code first
+		Database first
+		Database migration
+	Forms
+		Design
+		CRUDS
+		Validation
+		Search
+	Middlewares & Filters	
+	Handle errors
+	Dependeny injections
+	Logs
+	API's
+		Minimal API's
+		Open API's
+	Globalization and localizations
+	Advanced
+		Model binding
+		Custom model binding
+		Model validation
+		Compatibility version
+		File providers
+	Remote procedure call apps
+		gRPC
+	Performance
+		Caching
+		Scaling
+		Dianostic tools
+		Load and stress testing
+	Deployments

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MicroservicesWebApplication1\\MicroservicesWebApplication1.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AuthenticationWebApplication\\AuthenticationWebApplication.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\projects\publish-code</_PublishTargetUrl>
+    <History>True|2025-08-26T11:16:01.3968508Z||;True|2025-08-26T16:43:53.3946378+05:30||;True|2025-08-26T15:05:38.7237704+05:30||;True|2025-08-26T14:59:42.6351785+05:30||;True|2025-08-26T14:55:16.9616966+05:30||;True|2025-08-26T14:51:05.4820302+05:30||;False|2025-08-26T14:49:53.8565777+05:30||;True|2025-08-26T14:47:27.2702875+05:30||;False|2025-08-26T14:45:49.5547237+05:30||;False|2025-08-26T14:45:16.1079324+05:30||;True|2025-08-26T14:32:39.9671981+05:30||;False|2025-08-26T14:31:54.8563079+05:30||;False|2025-08-26T14:31:15.5946150+05:30||;False|2025-08-26T14:29:05.7959451+05:30||;False|2025-08-26T14:28:22.2864109+05:30||;True|2025-08-26T14:23:57.5544437+05:30||;True|2025-08-26T14:22:59.0071770+05:30||;True|2025-08-26T14:21:36.1192360+05:30||;True|2025-08-26T14:03:04.4762213+05:30||;False|2025-08-26T14:01:00.6974690+05:30||;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ConnectionString">
+      <Value>Server=CTHPGK3%3bDatabase=sai%3bUser Id=sa%3b Password=admin%40123%3bTrusted_Connection=True%3bTrustServerCertificate=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="windows_authentication_examples.Data.DataContext">
+      <Value>Server=CTHPGK3%3bDatabase=sai%3bUser Id=sa%3b Password=admin%40123%3bTrusted_Connection=True%3bTrustServerCertificate=True</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

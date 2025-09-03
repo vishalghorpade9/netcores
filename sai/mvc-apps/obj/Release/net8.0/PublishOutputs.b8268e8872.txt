@@ -1,0 +1,7 @@
+C:\Users\VGhorpade\source\repos\netcores\sai\mvc-apps\obj\Release\net8.0\PubTmp\Out\mvc-apps.exe
+C:\Users\VGhorpade\source\repos\netcores\sai\mvc-apps\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\VGhorpade\source\repos\netcores\sai\mvc-apps\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\VGhorpade\source\repos\netcores\sai\mvc-apps\obj\Release\net8.0\PubTmp\Out\mvc-apps.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\mvc-apps\obj\Release\net8.0\PubTmp\Out\mvc-apps.deps.json
+C:\Users\VGhorpade\source\repos\netcores\sai\mvc-apps\obj\Release\net8.0\PubTmp\Out\mvc-apps.runtimeconfig.json
+C:\Users\VGhorpade\source\repos\netcores\sai\mvc-apps\obj\Release\net8.0\PubTmp\Out\mvc-apps.pdb
