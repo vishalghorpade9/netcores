@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A98BF325-D958-445B-8B9D-C70F9D3DB651}|MicroservicesWebApplication1\\MicroservicesWebApplication1.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\microserviceswebapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A98BF325-D958-445B-8B9D-C70F9D3DB651}|MicroservicesWebApplication1\\MicroservicesWebApplication1.csproj|solutionrelative:microserviceswebapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9FDCF9BA-CBF7-4461-B89D-F6DE4EBCE072}|OPCUA-Subscriptions\\OPCUA-Subscriptions.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\opcua-subscriptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDCF9BA-CBF7-4461-B89D-F6DE4EBCE072}|OPCUA-Subscriptions\\OPCUA-Subscriptions.csproj|solutionrelative:opcua-subscriptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A98BF325-D958-445B-8B9D-C70F9D3DB651}|MicroservicesWebApplication1\\MicroservicesWebApplication1.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\microserviceswebapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A98BF325-D958-445B-8B9D-C70F9D3DB651}|MicroservicesWebApplication1\\MicroservicesWebApplication1.csproj|solutionrelative:microserviceswebapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77E3AC7C-EBB1-4AE9-99A4-8B76DF5ADD4F}|WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\workerservicemicroservice\\opcuaworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E3AC7C-EBB1-4AE9-99A4-8B76DF5ADD4F}|WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj|solutionrelative:workerservicemicroservice\\opcuaworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A98BF325-D958-445B-8B9D-C70F9D3DB651}|MicroservicesWebApplication1\\MicroservicesWebApplication1.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\microserviceswebapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A98BF325-D958-445B-8B9D-C70F9D3DB651}|MicroservicesWebApplication1\\MicroservicesWebApplication1.csproj|solutionrelative:microserviceswebapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{77E3AC7C-EBB1-4AE9-99A4-8B76DF5ADD4F}|WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\workerservicemicroservice\\backgroundworkerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E3AC7C-EBB1-4AE9-99A4-8B76DF5ADD4F}|WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj|solutionrelative:workerservicemicroservice\\backgroundworkerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC3ED982-92C5-484B-84B9-095F39099158}|AuthenticationWebApplication\\AuthenticationWebApplication.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\authenticationwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EC3ED982-92C5-484B-84B9-095F39099158}|AuthenticationWebApplication\\AuthenticationWebApplication.csproj|solutionrelative:authenticationwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{77E3AC7C-EBB1-4AE9-99A4-8B76DF5ADD4F}|WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\workerservicemicroservice\\workerservicemicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77E3AC7C-EBB1-4AE9-99A4-8B76DF5ADD4F}|WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj|solutionrelative:workerservicemicroservice\\workerservicemicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A98BF325-D958-445B-8B9D-C70F9D3DB651}|MicroservicesWebApplication1\\MicroservicesWebApplication1.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\microserviceswebapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A98BF325-D958-445B-8B9D-C70F9D3DB651}|MicroservicesWebApplication1\\MicroservicesWebApplication1.csproj|solutionrelative:microserviceswebapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77E3AC7C-EBB1-4AE9-99A4-8B76DF5ADD4F}|WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\workerservicemicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E3AC7C-EBB1-4AE9-99A4-8B76DF5ADD4F}|WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj|solutionrelative:workerservicemicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC3ED982-92C5-484B-84B9-095F39099158}|AuthenticationWebApplication\\AuthenticationWebApplication.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\authenticationwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC3ED982-92C5-484B-84B9-095F39099158}|AuthenticationWebApplication\\AuthenticationWebApplication.csproj|solutionrelative:authenticationwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77E3AC7C-EBB1-4AE9-99A4-8B76DF5ADD4F}|WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\workerservicemicroservice\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{77E3AC7C-EBB1-4AE9-99A4-8B76DF5ADD4F}|WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj|solutionrelative:workerservicemicroservice\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,79 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplication1\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "MicroservicesWebApplication1\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplication1\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "MicroservicesWebApplication1\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\OPCUA-Subscriptions\\Program.cs",
+              "RelativeDocumentMoniker": "OPCUA-Subscriptions\\Program.cs",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\OPCUA-Subscriptions\\Program.cs",
+              "RelativeToolTip": "OPCUA-Subscriptions\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T09:06:41.751Z",
+              "WhenOpened": "2025-09-12T10:47:58.497Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplication1\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "MicroservicesWebApplication1\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplication1\\WeatherForecast.cs",
-              "RelativeToolTip": "MicroservicesWebApplication1\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "OPCUAWorkerService.cs",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\WorkerServiceMicroservice\\OPCUAWorkerService.cs",
+              "RelativeDocumentMoniker": "WorkerServiceMicroservice\\OPCUAWorkerService.cs",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\WorkerServiceMicroservice\\OPCUAWorkerService.cs",
+              "RelativeToolTip": "WorkerServiceMicroservice\\OPCUAWorkerService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDcAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T09:06:37.865Z",
+              "WhenOpened": "2025-09-12T08:40:15.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\WorkerServiceMicroservice\\readme.txt",
+              "RelativeDocumentMoniker": "WorkerServiceMicroservice\\readme.txt",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\WorkerServiceMicroservice\\readme.txt",
+              "RelativeToolTip": "WorkerServiceMicroservice\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-11T10:02:19.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\AuthenticationWebApplication\\appsettings.json",
-              "RelativeDocumentMoniker": "AuthenticationWebApplication\\appsettings.json",
-              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\AuthenticationWebApplication\\appsettings.json",
-              "RelativeToolTip": "AuthenticationWebApplication\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-03T09:06:24.203Z",
+              "Title": "WorkerServiceMicroservice",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj",
+              "RelativeDocumentMoniker": "WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj",
+              "RelativeToolTip": "WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-11T09:49:12.488Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplication1\\appsettings.json",
-              "RelativeDocumentMoniker": "MicroservicesWebApplication1\\appsettings.json",
-              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplication1\\appsettings.json",
-              "RelativeToolTip": "MicroservicesWebApplication1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-03T09:06:15.804Z",
+              "Title": "BackgroundWorkerServices.cs",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\WorkerServiceMicroservice\\BackgroundWorkerServices.cs",
+              "RelativeDocumentMoniker": "WorkerServiceMicroservice\\BackgroundWorkerServices.cs",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\WorkerServiceMicroservice\\BackgroundWorkerServices.cs",
+              "RelativeToolTip": "WorkerServiceMicroservice\\BackgroundWorkerServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T07:00:20.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "MicroservicesWebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplication1\\Program.cs",
-              "RelativeToolTip": "MicroservicesWebApplication1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\WorkerServiceMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "WorkerServiceMicroservice\\Program.cs",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\WorkerServiceMicroservice\\Program.cs",
+              "RelativeToolTip": "WorkerServiceMicroservice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T09:04:24.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\AuthenticationWebApplication\\Program.cs",
-              "RelativeDocumentMoniker": "AuthenticationWebApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\AuthenticationWebApplication\\Program.cs",
-              "RelativeToolTip": "AuthenticationWebApplication\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T09:01:10.272Z",
+              "WhenOpened": "2025-09-11T06:59:34.013Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,6 @@
+@plant_modeling_api_HostAddress = http://localhost:5062
+
+GET {{plant_modeling_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

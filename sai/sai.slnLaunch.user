@@ -9,6 +9,14 @@
       {
         "Path": "AuthenticationWebApplication\\AuthenticationWebApplication.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "user-management-api\\user-management-api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "configuration-apps\\configuration-apps.csproj",
+        "Action": "Start"
       }
     ]
   }
