@@ -1,0 +1,11 @@
+C:\Users\VGhorpade\source\repos\netcores\sai\plant-modeling-api\bin\Release\net8.0\linux-x64\publish\plant-modeling-api
+C:\Users\VGhorpade\source\repos\netcores\sai\plant-modeling-api\bin\Release\net8.0\linux-x64\publish\appsettings.Development.json
+C:\Users\VGhorpade\source\repos\netcores\sai\plant-modeling-api\bin\Release\net8.0\linux-x64\publish\appsettings.json
+C:\Users\VGhorpade\source\repos\netcores\sai\plant-modeling-api\bin\Release\net8.0\linux-x64\publish\plant-modeling-api.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\plant-modeling-api\bin\Release\net8.0\linux-x64\publish\plant-modeling-api.deps.json
+C:\Users\VGhorpade\source\repos\netcores\sai\plant-modeling-api\bin\Release\net8.0\linux-x64\publish\plant-modeling-api.runtimeconfig.json
+C:\Users\VGhorpade\source\repos\netcores\sai\plant-modeling-api\bin\Release\net8.0\linux-x64\publish\plant-modeling-api.pdb
+C:\Users\VGhorpade\source\repos\netcores\sai\plant-modeling-api\bin\Release\net8.0\linux-x64\publish\Microsoft.OpenApi.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\plant-modeling-api\bin\Release\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\plant-modeling-api\bin\Release\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\plant-modeling-api\bin\Release\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,12 @@
+C:\Users\VGhorpade\source\repos\netcores\sai\common-class-library-projects\bin\Release\net8.0\common-class-library-projects.deps.json
+C:\Users\VGhorpade\source\repos\netcores\sai\common-class-library-projects\bin\Release\net8.0\common-class-library-projects.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\common-class-library-projects\bin\Release\net8.0\common-class-library-projects.pdb
+C:\Users\VGhorpade\source\repos\netcores\sai\common-class-library-projects\obj\Release\net8.0\common-class-library-projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VGhorpade\source\repos\netcores\sai\common-class-library-projects\obj\Release\net8.0\common-class-library-projects.AssemblyInfoInputs.cache
+C:\Users\VGhorpade\source\repos\netcores\sai\common-class-library-projects\obj\Release\net8.0\common-class-library-projects.AssemblyInfo.cs
+C:\Users\VGhorpade\source\repos\netcores\sai\common-class-library-projects\obj\Release\net8.0\common-class-library-projects.csproj.CoreCompileInputs.cache
+C:\Users\VGhorpade\source\repos\netcores\sai\common-class-library-projects\obj\Release\net8.0\common-class-library-projects.sourcelink.json
+C:\Users\VGhorpade\source\repos\netcores\sai\common-class-library-projects\obj\Release\net8.0\common-class-library-projects.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\common-class-library-projects\obj\Release\net8.0\refint\common-class-library-projects.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\common-class-library-projects\obj\Release\net8.0\common-class-library-projects.pdb
+C:\Users\VGhorpade\source\repos\netcores\sai\common-class-library-projects\obj\Release\net8.0\ref\common-class-library-projects.dll

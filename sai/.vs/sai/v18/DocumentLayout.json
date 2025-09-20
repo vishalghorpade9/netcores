@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F98843A7-9DE6-4BD3-81F4-CDE4C3B3184A}|MicroservicesWebApplicationSignalRHub\\MicroservicesWebApplicationSignalRHub.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\microserviceswebapplicationsignalrhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98843A7-9DE6-4BD3-81F4-CDE4C3B3184A}|MicroservicesWebApplicationSignalRHub\\MicroservicesWebApplicationSignalRHub.csproj|solutionrelative:microserviceswebapplicationsignalrhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98843A7-9DE6-4BD3-81F4-CDE4C3B3184A}|MicroservicesWebApplicationSignalRHub\\MicroservicesWebApplicationSignalRHub.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\microserviceswebapplicationsignalrhub\\controllers\\machinestatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98843A7-9DE6-4BD3-81F4-CDE4C3B3184A}|MicroservicesWebApplicationSignalRHub\\MicroservicesWebApplicationSignalRHub.csproj|solutionrelative:microserviceswebapplicationsignalrhub\\controllers\\machinestatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98843A7-9DE6-4BD3-81F4-CDE4C3B3184A}|MicroservicesWebApplicationSignalRHub\\MicroservicesWebApplicationSignalRHub.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\microserviceswebapplicationsignalrhub\\microserviceswebapplicationsignalrhub.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F98843A7-9DE6-4BD3-81F4-CDE4C3B3184A}|MicroservicesWebApplicationSignalRHub\\MicroservicesWebApplicationSignalRHub.csproj|solutionrelative:microserviceswebapplicationsignalrhub\\microserviceswebapplicationsignalrhub.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79AB6E7-AC8B-47DB-B627-F3218215674A}|mvc-apps\\mvc-apps.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\mvc-apps\\views\\signalrdemo\\machinestatususingsignalr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C79AB6E7-AC8B-47DB-B627-F3218215674A}|mvc-apps\\mvc-apps.csproj|solutionrelative:mvc-apps\\views\\signalrdemo\\machinestatususingsignalr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79AB6E7-AC8B-47DB-B627-F3218215674A}|mvc-apps\\mvc-apps.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\mvc-apps\\controllers\\signalrdemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79AB6E7-AC8B-47DB-B627-F3218215674A}|mvc-apps\\mvc-apps.csproj|solutionrelative:mvc-apps\\controllers\\signalrdemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79AB6E7-AC8B-47DB-B627-F3218215674A}|mvc-apps\\mvc-apps.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\mvc-apps\\mvc-apps.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C79AB6E7-AC8B-47DB-B627-F3218215674A}|mvc-apps\\mvc-apps.csproj|solutionrelative:mvc-apps\\mvc-apps.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79AB6E7-AC8B-47DB-B627-F3218215674A}|mvc-apps\\mvc-apps.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\mvc-apps\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C79AB6E7-AC8B-47DB-B627-F3218215674A}|mvc-apps\\mvc-apps.csproj|solutionrelative:mvc-apps\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MicroservicesWebApplicationSignalRHub",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplicationSignalRHub\\MicroservicesWebApplicationSignalRHub.csproj",
+              "RelativeDocumentMoniker": "MicroservicesWebApplicationSignalRHub\\MicroservicesWebApplicationSignalRHub.csproj",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplicationSignalRHub\\MicroservicesWebApplicationSignalRHub.csproj",
+              "RelativeToolTip": "MicroservicesWebApplicationSignalRHub\\MicroservicesWebApplicationSignalRHub.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-18T06:05:57.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mvc-apps",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\mvc-apps\\mvc-apps.csproj",
+              "RelativeDocumentMoniker": "mvc-apps\\mvc-apps.csproj",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\mvc-apps\\mvc-apps.csproj",
+              "RelativeToolTip": "mvc-apps\\mvc-apps.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-18T05:59:28.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplicationSignalRHub\\Program.cs",
+              "RelativeDocumentMoniker": "MicroservicesWebApplicationSignalRHub\\Program.cs",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplicationSignalRHub\\Program.cs",
+              "RelativeToolTip": "MicroservicesWebApplicationSignalRHub\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:57:14.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MachineStatusController.cs",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplicationSignalRHub\\Controllers\\MachineStatusController.cs",
+              "RelativeDocumentMoniker": "MicroservicesWebApplicationSignalRHub\\Controllers\\MachineStatusController.cs",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\MicroservicesWebApplicationSignalRHub\\Controllers\\MachineStatusController.cs",
+              "RelativeToolTip": "MicroservicesWebApplicationSignalRHub\\Controllers\\MachineStatusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:41:58.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MachineStatusUsingSignalR.cshtml",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\mvc-apps\\Views\\SignalRDemo\\MachineStatusUsingSignalR.cshtml",
+              "RelativeDocumentMoniker": "mvc-apps\\Views\\SignalRDemo\\MachineStatusUsingSignalR.cshtml",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\mvc-apps\\Views\\SignalRDemo\\MachineStatusUsingSignalR.cshtml",
+              "RelativeToolTip": "mvc-apps\\Views\\SignalRDemo\\MachineStatusUsingSignalR.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T05:36:57.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignalRDemoController.cs",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\mvc-apps\\Controllers\\SignalRDemoController.cs",
+              "RelativeDocumentMoniker": "mvc-apps\\Controllers\\SignalRDemoController.cs",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\mvc-apps\\Controllers\\SignalRDemoController.cs",
+              "RelativeToolTip": "mvc-apps\\Controllers\\SignalRDemoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:35:53.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "chat.js",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\mvc-apps\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "mvc-apps\\wwwroot\\js\\chat.js",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\mvc-apps\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "mvc-apps\\wwwroot\\js\\chat.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-18T05:35:41.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

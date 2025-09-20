@@ -1,0 +1,97 @@
+﻿@model IEnumerable<mvc_apps.Models.Machines>
+
+@{
+	ViewData["Title"] = "MachineDashboard";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+
+
+}
+
+<h1>MachineDashboard</h1>
+<br />
+<div class="row">
+	@{
+
+		foreach (var item in Model)
+		{
+			
+				@(await Html.PartialAsync("GetMachineStatusPartialView", item))
+
+			
+		}
+
+	}
+</div>
+
+<style type="text/css">
+	.machine-success {
+		background-color: forestgreen;
+		color: white;
+	}
+
+	.machine-idle {
+		background-color: yellow;
+		color: white;
+	}
+
+	.machine-error {
+		background-color: orangered;
+		color: white;
+	}
+</style>
+
+<script src="~/js/jquery-4.0.0-rc.1.min.js"></script>
+<script type="text/javascript">
+
+	$(document).ready(function () {
+
+		//alert("ok");
+
+		setInterval(function(){
+			getMachineStatusData();
+		}, 1000);
+
+		function getMachineStatusData(){
+
+
+			$.ajax({
+					url: '/PartialView/MachineData', // URL of your controller action
+				type: 'GET',         // Or 'POST', depending on your controller method
+				dataType: 'json',    // Expecting JSON data in response
+				success: function (result) {
+					// 'result' will contain the JSON data from the server
+					//console.log("Received data:", result);
+					for(var i=0;i< result.length;i++){
+							 console.log("Received data:", result[i]);
+								 var machineStatus= result[i].machineStatus;
+								 var machineId="machine_id_"+result[i].machineId;
+
+								 console.log("machine id " + machineId+" & status "+machineStatus);
+
+								 $("#"+machineId+" .small-box").removeClass("machine-success");
+								 $("#"+machineId+" .small-box").removeClass("machine-idle");
+								 $("#"+machineId+" .small-box").removeClass("machine-error");
+
+								 var cssClass="";
+								 if(machineStatus=="0"){
+									 cssClass="machine-idle";
+								 }else  if(machineStatus=="1"){
+									 cssClass="machine-success";
+								 }else  if(machineStatus=="2"){
+									 cssClass="machine-error";
+								 }
+
+								 $("#"+machineId+" .small-box").addClass(cssClass);
+
+					}
+				},
+				error: function (xhr, status, error) {
+					console.error("AJAX Error:", status, error);
+				}
+			});
+
+		}
+			
+		});
+
+</script>

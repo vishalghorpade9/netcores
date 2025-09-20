@@ -93,6 +93,7 @@ wwwroot\assets\images\logo-light.png
 wwwroot\assets\images\logo-sm.png
 wwwroot\assets\images\mac-img.png
 wwwroot\assets\images\maintenance.png
+wwwroot\assets\images\mes\designs\Real-tech-11.png
 wwwroot\assets\images\modals\login.png
 wwwroot\assets\images\modals\signup.png
 wwwroot\assets\images\modals\subscribe.png

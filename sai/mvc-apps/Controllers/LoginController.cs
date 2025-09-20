@@ -10,12 +10,12 @@ namespace mvc_apps.Controllers
     public class LoginController : Controller
     {
         private readonly DatabaseContext databaseContext;
-        //private readonly IHttpContextAccessor httpContextAccessor;
+        private readonly IHttpContextAccessor httpContextAccessor;
 
         public LoginController(DatabaseContext databaseContext)
         {
             this.databaseContext = databaseContext;
-            //this.httpContextAccessor = httpContextAccessor;
+            this.httpContextAccessor = httpContextAccessor;
         }
 
         public IActionResult Index()

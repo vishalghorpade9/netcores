@@ -1,12 +1,5 @@
-﻿@using Microsoft.AspNetCore.Mvc.Localization
-
-@inject IViewLocalizer Localizer;
-
-@inject Microsoft.Extensions.Options.IOptions<Microsoft.AspNetCore.Builder.RequestLocalizationOptions> localOtions
-
-
-
-@{
+﻿
+@* @{
     var culture = Context.Features.Get<Microsoft.AspNetCore.Localization.IRequestCultureFeature>();
     var cultureList = localOtions.Value.SupportedUICultures.Select(x => new SelectListItem { Value = x.Name, Text = x.Name }).ToList();
     var returnUrl = string.IsNullOrWhiteSpace(Context.Request.Path) ? "~/" : $"~{Context.Request.Path.Value}{Context.Request.QueryString}";
@@ -18,5 +11,5 @@
         <select name="culture" asp-for="@culture.RequestCulture.UICulture.Name" asp-items="cultureList" onchange="this.form.submit();"></select>
     </form>
 
-    @* <p><a href="#" onclick="alert('ok');">Hello</a></p> *@
-</div>
+  <p><a href="#" onclick="alert('ok');">Hello</a></p> 
+</div> *@

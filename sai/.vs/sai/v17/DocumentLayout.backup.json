@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FDCF9BA-CBF7-4461-B89D-F6DE4EBCE072}|OPCUA-Subscriptions\\OPCUA-Subscriptions.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\opcua-subscriptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FDCF9BA-CBF7-4461-B89D-F6DE4EBCE072}|OPCUA-Subscriptions\\OPCUA-Subscriptions.csproj|solutionrelative:opcua-subscriptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C79AB6E7-AC8B-47DB-B627-F3218215674A}|mvc-apps\\mvc-apps.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\mvc-apps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79AB6E7-AC8B-47DB-B627-F3218215674A}|mvc-apps\\mvc-apps.csproj|solutionrelative:mvc-apps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77E3AC7C-EBB1-4AE9-99A4-8B76DF5ADD4F}|WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\workerservicemicroservice\\opcuaworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77E3AC7C-EBB1-4AE9-99A4-8B76DF5ADD4F}|WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj|solutionrelative:workerservicemicroservice\\opcuaworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C79AB6E7-AC8B-47DB-B627-F3218215674A}|mvc-apps\\mvc-apps.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\mvc-apps\\controllers\\signalrdemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79AB6E7-AC8B-47DB-B627-F3218215674A}|mvc-apps\\mvc-apps.csproj|solutionrelative:mvc-apps\\controllers\\signalrdemocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77E3AC7C-EBB1-4AE9-99A4-8B76DF5ADD4F}|WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\workerservicemicroservice\\backgroundworkerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77E3AC7C-EBB1-4AE9-99A4-8B76DF5ADD4F}|WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj|solutionrelative:workerservicemicroservice\\backgroundworkerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C79AB6E7-AC8B-47DB-B627-F3218215674A}|mvc-apps\\mvc-apps.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\mvc-apps\\views\\signalrdemo\\machinestatususingsignalr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C79AB6E7-AC8B-47DB-B627-F3218215674A}|mvc-apps\\mvc-apps.csproj|solutionrelative:mvc-apps\\views\\signalrdemo\\machinestatususingsignalr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77E3AC7C-EBB1-4AE9-99A4-8B76DF5ADD4F}|WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\workerservicemicroservice\\workerservicemicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{77E3AC7C-EBB1-4AE9-99A4-8B76DF5ADD4F}|WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj|solutionrelative:workerservicemicroservice\\workerservicemicroservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C79AB6E7-AC8B-47DB-B627-F3218215674A}|mvc-apps\\mvc-apps.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\mvc-apps\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C79AB6E7-AC8B-47DB-B627-F3218215674A}|mvc-apps\\mvc-apps.csproj|solutionrelative:mvc-apps\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77E3AC7C-EBB1-4AE9-99A4-8B76DF5ADD4F}|WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\workerservicemicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77E3AC7C-EBB1-4AE9-99A4-8B76DF5ADD4F}|WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj|solutionrelative:workerservicemicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77E3AC7C-EBB1-4AE9-99A4-8B76DF5ADD4F}|WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\workerservicemicroservice\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{77E3AC7C-EBB1-4AE9-99A4-8B76DF5ADD4F}|WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj|solutionrelative:workerservicemicroservice\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{C79AB6E7-AC8B-47DB-B627-F3218215674A}|mvc-apps\\mvc-apps.csproj|c:\\users\\vghorpade\\source\\repos\\netcores\\sai\\mvc-apps\\mvc-apps.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C79AB6E7-AC8B-47DB-B627-F3218215674A}|mvc-apps\\mvc-apps.csproj|solutionrelative:mvc-apps\\mvc-apps.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +30,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\OPCUA-Subscriptions\\Program.cs",
-              "RelativeDocumentMoniker": "OPCUA-Subscriptions\\Program.cs",
-              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\OPCUA-Subscriptions\\Program.cs",
-              "RelativeToolTip": "OPCUA-Subscriptions\\Program.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAQwFUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\mvc-apps\\Program.cs",
+              "RelativeDocumentMoniker": "mvc-apps\\Program.cs",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\mvc-apps\\Program.cs",
+              "RelativeToolTip": "mvc-apps\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T10:47:58.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OPCUAWorkerService.cs",
-              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\WorkerServiceMicroservice\\OPCUAWorkerService.cs",
-              "RelativeDocumentMoniker": "WorkerServiceMicroservice\\OPCUAWorkerService.cs",
-              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\WorkerServiceMicroservice\\OPCUAWorkerService.cs",
-              "RelativeToolTip": "WorkerServiceMicroservice\\OPCUAWorkerService.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDcAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T08:40:15.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "readme.txt",
-              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\WorkerServiceMicroservice\\readme.txt",
-              "RelativeDocumentMoniker": "WorkerServiceMicroservice\\readme.txt",
-              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\WorkerServiceMicroservice\\readme.txt",
-              "RelativeToolTip": "WorkerServiceMicroservice\\readme.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-09-11T10:02:19.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WorkerServiceMicroservice",
-              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj",
-              "RelativeDocumentMoniker": "WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj",
-              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj",
-              "RelativeToolTip": "WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-11T09:49:12.488Z",
+              "WhenOpened": "2025-09-18T08:49:55.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BackgroundWorkerServices.cs",
-              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\WorkerServiceMicroservice\\BackgroundWorkerServices.cs",
-              "RelativeDocumentMoniker": "WorkerServiceMicroservice\\BackgroundWorkerServices.cs",
-              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\WorkerServiceMicroservice\\BackgroundWorkerServices.cs",
-              "RelativeToolTip": "WorkerServiceMicroservice\\BackgroundWorkerServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T07:00:20.937Z",
+              "Title": "MachineStatusUsingSignalR.cshtml",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\mvc-apps\\Views\\SignalRDemo\\MachineStatusUsingSignalR.cshtml",
+              "RelativeDocumentMoniker": "mvc-apps\\Views\\SignalRDemo\\MachineStatusUsingSignalR.cshtml",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\mvc-apps\\Views\\SignalRDemo\\MachineStatusUsingSignalR.cshtml",
+              "RelativeToolTip": "mvc-apps\\Views\\SignalRDemo\\MachineStatusUsingSignalR.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T08:48:16.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\WorkerServiceMicroservice\\Program.cs",
-              "RelativeDocumentMoniker": "WorkerServiceMicroservice\\Program.cs",
-              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\WorkerServiceMicroservice\\Program.cs",
-              "RelativeToolTip": "WorkerServiceMicroservice\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Title": "mvc-apps",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\mvc-apps\\mvc-apps.csproj",
+              "RelativeDocumentMoniker": "mvc-apps\\mvc-apps.csproj",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\mvc-apps\\mvc-apps.csproj",
+              "RelativeToolTip": "mvc-apps\\mvc-apps.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-18T08:43:43.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "chat.js",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\mvc-apps\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "mvc-apps\\wwwroot\\js\\chat.js",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\mvc-apps\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "mvc-apps\\wwwroot\\js\\chat.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-18T08:38:03.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignalRDemoController.cs",
+              "DocumentMoniker": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\mvc-apps\\Controllers\\SignalRDemoController.cs",
+              "RelativeDocumentMoniker": "mvc-apps\\Controllers\\SignalRDemoController.cs",
+              "ToolTip": "C:\\Users\\VGhorpade\\source\\repos\\netcores\\sai\\mvc-apps\\Controllers\\SignalRDemoController.cs",
+              "RelativeToolTip": "mvc-apps\\Controllers\\SignalRDemoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T06:59:34.013Z",
+              "WhenOpened": "2025-09-18T08:37:26.434Z",
               "EditorCaption": ""
             }
           ]

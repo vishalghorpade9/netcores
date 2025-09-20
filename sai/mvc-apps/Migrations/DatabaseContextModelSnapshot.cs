@@ -21,6 +21,29 @@ namespace mvc_apps.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("mvc_apps.Models.Machines", b =>
+                {
+                    b.Property<int>("MachineId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("MachineId"));
+
+                    b.Property<string>("MachineName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("MachineStatus")
+                        .HasColumnType("int");
+
+                    b.Property<string>("MachineStatusTag")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("MachineId");
+
+                    b.ToTable("Machines");
+                });
+
             modelBuilder.Entity("mvc_apps.Models.ShopUser", b =>
                 {
                     b.Property<int>("UserId")

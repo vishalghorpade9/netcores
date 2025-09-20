@@ -9,17 +9,19 @@ namespace mvc_apps.Controllers
     public class HomeController : BaseController
     {
         private readonly ILogger<HomeController> _logger;
-        private readonly IHtmlLocalizer<HomeController> htmlLocalizer;
+        // private readonly IHtmlLocalizer<HomeController> htmlLocalizer;
 
-        public HomeController(ILogger<HomeController> logger, IHtmlLocalizer<HomeController> htmlLocalizer)
+        public HomeController(ILogger<HomeController> logger
+            //, IHtmlLocalizer<HomeController> htmlLocalizer
+            )
         {
             _logger = logger;
-            this.htmlLocalizer = htmlLocalizer;
+            // this.htmlLocalizer = htmlLocalizer;
         }
 
         public IActionResult Index()
         {
-            var test = htmlLocalizer["EquipmentName"];
+            // var test = htmlLocalizer["EquipmentName"];
             return View();
         }
 

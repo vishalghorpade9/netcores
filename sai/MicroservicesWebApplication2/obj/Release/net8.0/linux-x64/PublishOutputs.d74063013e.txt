@@ -1,0 +1,11 @@
+C:\Users\VGhorpade\source\repos\netcores\sai\MicroservicesWebApplication2\bin\Release\net8.0\linux-x64\publish\MicroservicesWebApplication2
+C:\Users\VGhorpade\source\repos\netcores\sai\MicroservicesWebApplication2\bin\Release\net8.0\linux-x64\publish\appsettings.Development.json
+C:\Users\VGhorpade\source\repos\netcores\sai\MicroservicesWebApplication2\bin\Release\net8.0\linux-x64\publish\appsettings.json
+C:\Users\VGhorpade\source\repos\netcores\sai\MicroservicesWebApplication2\bin\Release\net8.0\linux-x64\publish\MicroservicesWebApplication2.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\MicroservicesWebApplication2\bin\Release\net8.0\linux-x64\publish\MicroservicesWebApplication2.deps.json
+C:\Users\VGhorpade\source\repos\netcores\sai\MicroservicesWebApplication2\bin\Release\net8.0\linux-x64\publish\MicroservicesWebApplication2.runtimeconfig.json
+C:\Users\VGhorpade\source\repos\netcores\sai\MicroservicesWebApplication2\bin\Release\net8.0\linux-x64\publish\MicroservicesWebApplication2.pdb
+C:\Users\VGhorpade\source\repos\netcores\sai\MicroservicesWebApplication2\bin\Release\net8.0\linux-x64\publish\Microsoft.OpenApi.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\MicroservicesWebApplication2\bin\Release\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\MicroservicesWebApplication2\bin\Release\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\MicroservicesWebApplication2\bin\Release\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

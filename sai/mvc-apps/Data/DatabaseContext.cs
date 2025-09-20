@@ -14,5 +14,6 @@ namespace mvc_apps.Data
         }
 
         public  DbSet<ShopUser> ShopUsers { get; set; }
+        public DbSet<Machines> Machines { get; set; } = default!;
     }
 }

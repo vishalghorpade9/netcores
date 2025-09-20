@@ -21,4 +21,3 @@ C:\Users\VGhorpade\source\repos\netcores\sai\OPCUA-Subscriptions\obj\Debug\OPCUA
 C:\Users\VGhorpade\source\repos\netcores\sai\OPCUA-Subscriptions\obj\Debug\OPCUA-Su.05EFCBEE.Up2Date
 C:\Users\VGhorpade\source\repos\netcores\sai\OPCUA-Subscriptions\obj\Debug\OPCUA-Subscriptions.exe
 C:\Users\VGhorpade\source\repos\netcores\sai\OPCUA-Subscriptions\obj\Debug\OPCUA-Subscriptions.pdb
-C:\Users\VGhorpade\source\repos\netcores\sai\OPCUA-Subscriptions\obj\Debug\OPCUA-Subscriptions.exe.config

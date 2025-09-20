@@ -1,0 +1,3 @@
+C:\Users\VGhorpade\source\repos\netcores\sai\common-class-library-projects\bin\Release\net8.0\linux-x64\publish\common-class-library-projects.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\common-class-library-projects\bin\Release\net8.0\linux-x64\publish\common-class-library-projects.deps.json
+C:\Users\VGhorpade\source\repos\netcores\sai\common-class-library-projects\bin\Release\net8.0\linux-x64\publish\common-class-library-projects.pdb

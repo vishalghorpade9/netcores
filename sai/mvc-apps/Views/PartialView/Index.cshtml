@@ -1,0 +1,39 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@* <partial name="GetMachineStatusPartialView" />
+
+<partial name="GetMachineStatusPartialView" /> *@
+
+@{
+    
+    <div class="row">
+    @for (int i=0;i < 16; i++)
+    {
+        // <div class="col-2">
+        @(await Html.PartialAsync("GetMachineStatusPartialView",
+                                                            new Machines(i, "Machine " + (i + 1), new Random().Next(0, 3))))
+    // </div>
+    }
+</div>
+
+   
+}
+@* @await Html.PartialAsync("GetMachineStatusPartialView", new Machines()) *@
+
+<style type="text/css">
+.machine-success{
+    background-color : forestgreen;
+}
+
+    .machine-idle {
+        background-color: yellow;
+    }
+
+    .machine-error{
+        background-color: orangered;
+    }
+</style>

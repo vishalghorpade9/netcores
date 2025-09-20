@@ -31,10 +31,13 @@ namespace WorkerServiceMicroservice
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
+            int i = 100;
             while (!stoppingToken.IsCancellationRequested)
             {
                 //_logger.LogInformation("Producer worker running at " + DateTime.Now);
-                SendProductMessage("Producer worker running at " + DateTime.Now);
+                // SendProductMessage("Producer worker running at " + DateTime.Now);
+                SendProductMessage(i.ToString());
+                i++;
                 await Task.Delay(1000, stoppingToken);
             }
         }
