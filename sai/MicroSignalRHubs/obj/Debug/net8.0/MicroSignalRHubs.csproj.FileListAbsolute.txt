@@ -42,3 +42,4 @@ C:\Users\VGhorpade\source\repos\netcores\sai\MicroSignalRHubs\bin\Debug\net8.0\M
 C:\Users\VGhorpade\source\repos\netcores\sai\MicroSignalRHubs\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\VGhorpade\source\repos\netcores\sai\MicroSignalRHubs\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\VGhorpade\source\repos\netcores\sai\MicroSignalRHubs\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\MicroSignalRHubs\obj\Debug\net8.0\swae.build.ex.cache

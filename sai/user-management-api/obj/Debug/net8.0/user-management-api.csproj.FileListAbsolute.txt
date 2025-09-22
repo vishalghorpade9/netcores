@@ -179,3 +179,4 @@ C:\Users\VGhorpade\source\repos\netcores\sai\user-management-api\obj\Debug\net8.
 C:\Users\VGhorpade\source\repos\netcores\sai\user-management-api\obj\Debug\net8.0\user-management-api.pdb
 C:\Users\VGhorpade\source\repos\netcores\sai\user-management-api\obj\Debug\net8.0\user-management-api.genruntimeconfig.cache
 C:\Users\VGhorpade\source\repos\netcores\sai\user-management-api\obj\Debug\net8.0\ref\user-management-api.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\user-management-api\obj\Debug\net8.0\swae.build.ex.cache

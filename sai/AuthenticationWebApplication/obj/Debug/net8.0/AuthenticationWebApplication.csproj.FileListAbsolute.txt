@@ -171,3 +171,4 @@ C:\Users\VGhorpade\source\repos\netcores\sai\AuthenticationWebApplication\obj\De
 C:\Users\VGhorpade\source\repos\netcores\sai\AuthenticationWebApplication\obj\Debug\net8.0\AuthenticationWebApplication.pdb
 C:\Users\VGhorpade\source\repos\netcores\sai\AuthenticationWebApplication\obj\Debug\net8.0\AuthenticationWebApplication.genruntimeconfig.cache
 C:\Users\VGhorpade\source\repos\netcores\sai\AuthenticationWebApplication\obj\Debug\net8.0\ref\AuthenticationWebApplication.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\AuthenticationWebApplication\obj\Debug\net8.0\swae.build.ex.cache

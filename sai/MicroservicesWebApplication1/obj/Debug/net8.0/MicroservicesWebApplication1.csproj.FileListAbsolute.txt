@@ -42,3 +42,4 @@ C:\Users\VGhorpade\source\repos\netcores\sai\MicroservicesWebApplication1\obj\De
 C:\Users\VGhorpade\source\repos\netcores\sai\MicroservicesWebApplication1\obj\Debug\net8.0\MicroservicesWebApplication1.pdb
 C:\Users\VGhorpade\source\repos\netcores\sai\MicroservicesWebApplication1\obj\Debug\net8.0\MicroservicesWebApplication1.genruntimeconfig.cache
 C:\Users\VGhorpade\source\repos\netcores\sai\MicroservicesWebApplication1\obj\Debug\net8.0\ref\MicroservicesWebApplication1.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\MicroservicesWebApplication1\obj\Debug\net8.0\swae.build.ex.cache

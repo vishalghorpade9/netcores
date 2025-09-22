@@ -1,0 +1,17 @@
+9/20/2025 9:39:45 PM: Worker service started
+9/20/2025 9:39:45 PM: Subscription started 9/20/2025 9:39:45 PM
+9/20/2025 9:39:47 PM: Connected to OPC UA server at opc.tcp://CTHPGK3:49320
+9/20/2025 9:39:47 PM: Subscribed to NodeId: ns=2;s=Channel2.Device1.station1
+9/20/2025 9:39:47 PM: Subscribed to NodeId: ns=2;s=Channel2.Device1.station2
+9/20/2025 9:39:47 PM: Subscribed to NodeId: ns=2;s=Channel2.Device1.station3
+9/20/2025 9:39:47 PM: Subscribed to NodeId: ns=2;s=Channel2.Device1.station4
+9/20/2025 9:39:47 PM: Data change event fired
+9/20/2025 9:39:47 PM: Data Change from NodeId 'Channel2.Device1.station1': 2 9/20/2025 4:09:47 PM
+9/20/2025 9:39:48 PM: Data change event fired
+9/20/2025 9:39:48 PM: Data Change from NodeId 'Channel2.Device1.station2': 2 9/20/2025 4:09:47 PM
+9/20/2025 9:39:48 PM: Data change event fired
+9/20/2025 9:39:48 PM: Data Change from NodeId 'Channel2.Device1.station3': 2 9/20/2025 4:09:47 PM
+9/20/2025 9:39:48 PM: Data change event fired
+9/20/2025 9:39:48 PM: Data Change from NodeId 'Channel2.Device1.station4': 0 9/20/2025 4:09:47 PM
+9/20/2025 9:40:03 PM: Data change event fired
+9/20/2025 9:40:03 PM: Data Change from NodeId 'Channel2.Device1.station1': 1 9/20/2025 4:10:03 PM

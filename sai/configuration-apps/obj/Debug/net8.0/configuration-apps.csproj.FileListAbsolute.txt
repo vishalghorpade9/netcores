@@ -229,3 +229,4 @@ C:\Users\VGhorpade\source\repos\netcores\sai\configuration-apps\obj\Debug\net8.0
 C:\Users\VGhorpade\source\repos\netcores\sai\configuration-apps\obj\Debug\net8.0\configuration-apps.pdb
 C:\Users\VGhorpade\source\repos\netcores\sai\configuration-apps\obj\Debug\net8.0\configuration-apps.genruntimeconfig.cache
 C:\Users\VGhorpade\source\repos\netcores\sai\configuration-apps\obj\Debug\net8.0\ref\configuration-apps.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\configuration-apps\obj\Debug\net8.0\swae.build.ex.cache

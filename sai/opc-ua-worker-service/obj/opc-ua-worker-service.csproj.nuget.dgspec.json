@@ -51,9 +51,37 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.20, )"
+            },
             "Microsoft.Extensions.Hosting": {
               "target": "Package",
               "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Hosting.WindowsServices": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Opc.UaFx.Client": {
+              "target": "Package",
+              "version": "[2.50.2, )"
             }
           },
           "imports": [

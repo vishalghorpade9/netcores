@@ -3,11 +3,7 @@
     "Name": "New Profile",
     "Projects": [
       {
-        "Path": "MicroSignalRHubs\\MicroSignalRHubs.csproj",
-        "Action": "Start"
-      },
-      {
-        "Path": "mvc-apps\\mvc-apps.csproj",
+        "Path": "WorkerServiceMicroservice\\WorkerServiceMicroservice.csproj",
         "Action": "Start"
       }
     ]

@@ -178,3 +178,4 @@ C:\Users\VGhorpade\source\repos\netcores\sai\windows-authentication-examples\obj
 C:\Users\VGhorpade\source\repos\netcores\sai\windows-authentication-examples\obj\Debug\net8.0\windows-authentication-examples.pdb
 C:\Users\VGhorpade\source\repos\netcores\sai\windows-authentication-examples\obj\Debug\net8.0\windows-authentication-examples.genruntimeconfig.cache
 C:\Users\VGhorpade\source\repos\netcores\sai\windows-authentication-examples\obj\Debug\net8.0\ref\windows-authentication-examples.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\windows-authentication-examples\obj\Debug\net8.0\swae.build.ex.cache

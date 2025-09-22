@@ -34,3 +34,4 @@ C:\Users\VGhorpade\source\repos\netcores\sai\plant-modeling-api\obj\Debug\net8.0
 C:\Users\VGhorpade\source\repos\netcores\sai\plant-modeling-api\obj\Debug\net8.0\plant-modeling-api.pdb
 C:\Users\VGhorpade\source\repos\netcores\sai\plant-modeling-api\obj\Debug\net8.0\plant-modeling-api.genruntimeconfig.cache
 C:\Users\VGhorpade\source\repos\netcores\sai\plant-modeling-api\obj\Debug\net8.0\ref\plant-modeling-api.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\plant-modeling-api\obj\Debug\net8.0\swae.build.ex.cache

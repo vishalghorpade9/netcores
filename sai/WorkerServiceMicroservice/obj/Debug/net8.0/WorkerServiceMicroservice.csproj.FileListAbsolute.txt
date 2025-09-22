@@ -52,3 +52,4 @@ C:\Users\VGhorpade\source\repos\netcores\sai\WorkerServiceMicroservice\obj\Debug
 C:\Users\VGhorpade\source\repos\netcores\sai\WorkerServiceMicroservice\obj\Debug\net8.0\WorkerServiceMicroservice.pdb
 C:\Users\VGhorpade\source\repos\netcores\sai\WorkerServiceMicroservice\obj\Debug\net8.0\WorkerServiceMicroservice.genruntimeconfig.cache
 C:\Users\VGhorpade\source\repos\netcores\sai\WorkerServiceMicroservice\obj\Debug\net8.0\ref\WorkerServiceMicroservice.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\WorkerServiceMicroservice\obj\Debug\net8.0\swae.build.ex.cache

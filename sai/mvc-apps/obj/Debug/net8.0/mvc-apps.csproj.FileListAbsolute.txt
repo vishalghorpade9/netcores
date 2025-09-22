@@ -612,3 +612,4 @@ C:\Users\VGhorpade\source\repos\netcores\sai\mvc-apps\bin\Debug\net8.0\Microsoft
 C:\Users\VGhorpade\source\repos\netcores\sai\mvc-apps\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
 C:\Users\VGhorpade\source\repos\netcores\sai\mvc-apps\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
 C:\Users\VGhorpade\source\repos\netcores\sai\mvc-apps\bin\Debug\net8.0\System.Threading.Channels.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\mvc-apps\obj\Debug\net8.0\swae.build.ex.cache
