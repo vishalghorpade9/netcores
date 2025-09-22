@@ -50,6 +50,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Opc.UaFx.Client": {
+              "target": "Package",
+              "version": "[2.50.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

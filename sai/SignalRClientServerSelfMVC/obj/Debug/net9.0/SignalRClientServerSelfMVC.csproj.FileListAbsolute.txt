@@ -25,7 +25,6 @@ C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\obj\Debu
 C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\obj\Debug\net9.0\scopedcss\projectbundle\SignalRClientServerSelfMVC.bundle.scp.css
 C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\obj\Debug\net9.0\compressed\60ibmjqhus-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\obj\Debug\net9.0\compressed\mz0gi3mg4g-{0}-61n19gt1b8-61n19gt1b8.gz
-C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\obj\Debug\net9.0\compressed\l8acxfqqyp-{0}-drwbsndtfg-drwbsndtfg.gz
 C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\obj\Debug\net9.0\compressed\0xqlxktek1-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\obj\Debug\net9.0\compressed\dcd4y89e4q-{0}-bqjiyaj88i-bqjiyaj88i.gz
 C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\obj\Debug\net9.0\compressed\gxkd9gmn10-{0}-c2jlpeoesf-c2jlpeoesf.gz
@@ -103,3 +102,16 @@ C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\obj\Debu
 C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\obj\Debug\net9.0\SignalRClientServerSelfMVC.pdb
 C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\obj\Debug\net9.0\SignalRClientServerSelfMVC.genruntimeconfig.cache
 C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\obj\Debug\net9.0\ref\SignalRClientServerSelfMVC.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\bin\Debug\net9.0\Opc.UaFx.Client.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\bin\Debug\net9.0\BouncyCastle.Crypto.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\bin\Debug\net9.0\System.Management.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\bin\Debug\net9.0\System.ServiceModel.Primitives.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\bin\Debug\net9.0\System.ServiceModel.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\bin\Debug\net9.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\bin\Debug\net9.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\bin\Debug\net9.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\obj\Debug\net9.0\SignalRClientServerSelfMVC.csproj.AssemblyReference.cache
+C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\obj\Debug\net9.0\SignalRC.E5F0A808.Up2Date
+C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\obj\Debug\net9.0\compressed\l8acxfqqyp-{0}-a8vy10bn4c-a8vy10bn4c.gz

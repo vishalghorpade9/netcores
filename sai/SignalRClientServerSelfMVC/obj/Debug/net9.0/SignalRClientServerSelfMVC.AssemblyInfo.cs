@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SignalRClientServerSelfMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63a195b66de5080de389d45326d66c11f79391de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aeeb94101b6eaef68a2ed19c0bd2795a46cb256e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SignalRClientServerSelfMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SignalRClientServerSelfMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

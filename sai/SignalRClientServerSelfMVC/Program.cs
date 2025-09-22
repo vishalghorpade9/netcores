@@ -9,6 +9,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddSignalR();
 
 builder.Services.AddHostedService<SignalRWorkerService>();
+builder.Services.AddHostedService<OpcUaWorkerService>();
 
 var app = builder.Build();
 

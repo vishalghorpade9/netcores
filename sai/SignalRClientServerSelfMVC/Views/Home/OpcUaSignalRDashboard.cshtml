@@ -1,0 +1,89 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<h1>Demo of Opc Ua and SignalR</h1>
+<div class="row">
+    <div class="col-2 box_style" id="Channel2.Device1.station1">
+    </div>
+
+    <div class="col-2 box_style" id="Channel2.Device1.station2">
+    </div>
+
+    <div class="col-2 box_style" id="Channel2.Device1.station3">
+    </div>
+
+    <div class="col-2 box_style" id="Channel2.Device1.station4">
+    </div>
+</div>
+
+<script src="~/lib/microsoft-signalr/signalr.min.js"></script>
+
+<style type="text/css">
+
+    .box_style {
+        width: 100%;
+        border: 1px solid #cccccc;
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+
+    .red_box {
+        background-color: red;
+    }
+
+    .green_box {
+        background-color: green;
+    }
+
+    .yellow_box {
+        background-color: yellow;
+    }
+
+</style>
+
+    <script type="text/javascript">
+        "use strict";
+
+    var connection = new signalR.HubConnectionBuilder().withUrl("/chatHub").build();
+
+        
+
+    connection.on("OpcUaReceiveMessage", function (message) {
+        console.log(message);
+        var receivedData = JSON.parse(message);
+
+        console.log(receivedData);
+        var tagName = receivedData.TagName;
+        var tagValue = receivedData.TagValue;
+        console.log(tagName);
+        console.log(tagValue);
+
+        var element = document.getElementById(tagName);
+        element.classList.remove("red_box");
+        element.classList.remove("green_box");
+        element.classList.remove("yellow_box");
+
+        if (tagValue == 0) {
+            element.classList.add("yellow_box");
+        } else if (tagValue == 1) {
+            element.classList.add("green_box");
+        } else {
+            element.classList.add("red_box");
+        }
+
+    });
+
+    connection.start().then(function () {
+        // document.getElementById("sendButton").disabled = false;
+    }).catch(function (err) {
+        return console.error(err.toString());
+    });
+    
+    
+    </script>

@@ -26,8 +26,16 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = 
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/VGhorpade/source/repos/netcores/sai/SignalRClientServerSelfMVC/Views/Home/DynamicMessageToSpecificClients.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEeW5hbWljTWVzc2FnZVRvU3BlY2lmaWNDbGllbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/VGhorpade/source/repos/netcores/sai/SignalRClientServerSelfMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/VGhorpade/source/repos/netcores/sai/SignalRClientServerSelfMVC/Views/Home/OpcUaSignalRDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPcGNVYVNpZ25hbFJEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/VGhorpade/source/repos/netcores/sai/SignalRClientServerSelfMVC/Views/Home/Privacy.cshtml]

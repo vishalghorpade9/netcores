@@ -66,6 +66,8 @@ wwwroot\lib\microsoft-signalr\signalr.js
 wwwroot\lib\microsoft-signalr\signalr.min.js
 wwwroot\lib\signalr.js\jquery.signalR.js
 wwwroot\lib\signalr.js\jquery.signalR.min.js
+C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\wwwroot\css\site.css
+C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\wwwroot\favicon.ico
 C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\wwwroot\js\chat.js
 C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\wwwroot\js\site.js
 C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
@@ -131,5 +133,3 @@ C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\wwwroot\
 C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\wwwroot\lib\microsoft-signalr\signalr.min.js
 C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\wwwroot\lib\signalr.js\jquery.signalR.js
 C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\wwwroot\lib\signalr.js\jquery.signalR.min.js
-C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\wwwroot\favicon.ico
-C:\Users\VGhorpade\source\repos\netcores\sai\SignalRClientServerSelfMVC\wwwroot\css\site.css
